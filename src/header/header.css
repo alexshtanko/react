@@ -1,0 +1,12 @@
+.header-nav-wrapper ul{
+    margin: 0;
+    padding: 0;
+}
+.header-nav-wrapper li{
+    list-style: none;
+    display: inline;
+    margin-left: 25px;
+}
+.header-nav-wrapper li:first-child{
+    margin-left: 0;
+}
